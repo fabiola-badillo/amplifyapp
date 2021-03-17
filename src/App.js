@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import gir from './gir.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+           <img src={gir} alt="GIR" />
         <h1>Fabi was here!</h1>
       </header>
     </div>
